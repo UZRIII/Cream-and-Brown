@@ -16,7 +16,8 @@ body {
     flex-direction: column;
     margin: 0;
     background-image: url('Cream and Brown Background.jpg');
-    background-size: cover;
+    /* background-size: cover; */
+    background-size: 100% 200%;
     text-align: center;
     color: #674a42;
 }
